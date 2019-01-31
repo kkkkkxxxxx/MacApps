@@ -155,3 +155,8 @@ Boom 3D 是Boom系列全新的版本，相比于以前的Boom版本，新版本�
 
 ![](Assets/Boom3D.jpg)
 
+## Sip
+![](Icons/Sip.png)
+Sip 是一款设计师和前端应该会需要的屏幕取色软件，你只需要鼠标点一下即可取得屏幕当前位置的颜色值，并将数据自动存到剪切板，方便随时粘贴出来。支持 CSS、UIColor 等多种格式。
+
+![](Assets/Sip.jpg)
