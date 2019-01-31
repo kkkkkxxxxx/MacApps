@@ -126,5 +126,8 @@ iRingg 可以让你从任何你能在互联网上找到的任何东西中制造�
 ePublr 是一款将文档转换为epub文件格式的工具。它不仅以不同的格式创建图书的副本，还会优化版面，文字和图像。所有转换后的书籍都可以通过iBooks轻松打开以便同步和阅读。ePublr 包含具有7种配色方案的epub阅读器。
 ![](Assets/ePublr.jpg)
 
-
+## Boom 3D
+![](Icons/Boom3D.png)
+Boom 3D 是Boom系列全新的版本，相比于以前的Boom版本，新版本主要立足于3D音效增强，当你觉得你的Mac播放音乐或视频声音太小时，可以使用Boom这款软件提高音量，支持iTunes和QuickTime等播放器，还支持改善语音聊天的音效，非常强大！
+![](Assets/Boom3D.jpg)
 
