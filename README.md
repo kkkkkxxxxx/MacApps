@@ -12,7 +12,7 @@
 
 ## CleanMyMac X
 CleanMyMac X 是Mac os系统上一款先进的、集所有功能于一身的实用系统清理工具，它能帮助保持您的Mac保持清洁。只需两个简单的点击，就可以删除无用的文件，以节省您宝贵的磁盘空间。CleanMyMac可以流畅地与系统性能相结合，清洁不需要的语言、记录更新、清洁缓存、快速安全擦除、应用卸载和清空回收站等重要功能。CleanMyMac可以为您节省硬盘空间，提高电脑的速度。CleanMyMac X一定会使您的Mac更加出色。
-![](Assets/CleanMyMac\ X.gif)
+![](Assets/CleanMyMacX.gif)
 
 ## Charles
 Charles 是一款Mac上的HTTP代理服务器、HTTP监视器、反向代理服务器，可以让开发者监视查看所有连接互联网的HTTP通信，包括请求，响应和HTTP头信息等等，俗称“抓包”工具，对于Web开发人员来说是一款很有价值的辅助工具！
@@ -20,19 +20,19 @@ Charles 是一款Mac上的HTTP代理服务器、HTTP监视器、反向代理服�
 
 ## Hopper Disassembler
 Hopper Disassembler 是一款Mac上强大的二进制反编译工具，可让您对应用程序进行反汇编，反编译和调试。
-![](Assets/Hopper\ Disassembler.jpg)
+![](Assets/HopperDisassembler.jpg)
 
 ## Reveal
 Reveal 是Mac os平台上的一款开发者调试IOS应用的Mac开发软件，它能够在运行时调试和修改iOS应用程序。Reveal能连接到应用程序，并允许开发者编辑各种用户界面参数，这反过来会立即反应在程序的UI上。
 ![](Assets/Reveal.gif)
 
-## Mweb
+## MWeb
 MWeb 是一款Mac上专业的Markdown写作、记笔记、静态博客生成软件，是一站式的 Markdown 编辑和静态网站生成解决方案，支持大量 Markdown 扩展语法。
-![](Assets/Mweb.jpg)
+![](Assets/MWeb.jpg)
 
 ## Beyond Compare
 Beyond Compare这是一款号称码农神器的软件，Beyond Compare能够在Mac OS系统上非常专业的对比两个文件或者两个文件夹的不同之处，并把每一个不同之处以不同的颜色加以区分，你可以很清楚很明显的了解到两个相似文件的不同支持，便于开发者们和设计人员工作之用。
-![](Assets/Beyond\ Compare.jpg)
+![](Assets/BeyondCompare.jpg)
 
 ## IconFly
 IconFly 是一个令人难以置信的节省时间，让您可以轻松地在多种格式为你的Mac，iPhone，iPad和Apple关注应用程序创建的图标。此外，IconFly允许您为Android应用程序以及Web剪辑图标和图标创建图标。IconFly得到了积极支持并不断更新。
@@ -41,7 +41,7 @@ IconFly 是一个令人难以置信的节省时间，让您可以轻松地在多
 
 ## Navicat Premium
 Navicat Premium 是最优秀的数据库图形化管理客户端，支持MySQL、SQL Server、SQLite、Oracle 和 PostgreSQL 等数据库，支持数据库建模，正向和反向工程，数据同步等功能，而Premium版本是包含了Navicat所有功能的最强大版本，是首选的数据库客户端工具！
-![](Assets/Navicat\ Premium.jpg)
+![](Assets/NavicatPremium.jpg)
 
 ## Downie
 Downie 是一款Mac上的非常好用的在线视频下载工具，支持包括Youtube、优酷等国内外750多个在线视频网站的视频下载，支持中文界面，支持下载暂停恢复等新功能，软件简单易用，只需要拖拽或输入视频网址就可以自动下载。
@@ -85,7 +85,7 @@ Sketch 是一款Mac上小巧但功能强大的矢量绘图软件，最新版本�
 
 ## Pixelmator Pro
 Pixelmator Pro 是知名的绘图软件Pixelmator的专业高级版本，专为Mac开发和优化，包含了全新的工作流以及更直观简单的编辑软件。它还采用了单窗口界面以及基于机器学习的智能图像编辑功能。它可以与 macOS High Sierra 完美集成，可以自动完成水平检测，智能快速选择以及更好的修复工具等优点，很强大!
-![](Assets/Pixelmator\ Pro.jpg)
+![](Assets/PixelmatorPro.jpg)
 
 ## 1Password
 1Password 是Mac上最优秀的密码管理工具，其最优秀之处是强大的浏览器插件和跨平台同步功能，1Password 在安全和方便间做了最好的平衡，能够自动生成复杂的密码并记忆，通过一个主密码管理你的所有密码，支持Safari、Firefox、Chorme、Opera等浏览器，自动登陆网站，并且除了Mac平台，还支持iOS平台，之间可通过iCloud同步，支持中文！
@@ -93,7 +93,7 @@ Pixelmator Pro 是知名的绘图软件Pixelmator的专业高级版本，专为M
 
 ## Sublime Text
 Sublime Text 是Mac os平台上的一款非常不错的代码编辑器,同时 Sublime Text 也是跨平台的，界面和功能感觉和 TextMate 比较相似。此外他的窗口分组、项目管理、扩展工具、代码折叠方面都非常不错,还直接支持 vim 模式。
-![](Assets/Sublime\ Text.jpg)
+![](Assets/SublimeText.jpg)
 
 ## iRingg
 iRingg 可以让你从任何你能在互联网上找到的任何东西中制造个性化的铃声。可以轻松地从iTunes库里的歌曲中删除音频片段，或者在SoundCloud或YouTube上立即找到它们。添加声音效果(称为SndMoji™️)或记录自己的声音和使用过滤器来创建非常个人的铃声。将新创建的铃声直接推送到iPhone(有线或无线连接)，它将出现在默认的铃声部分。
