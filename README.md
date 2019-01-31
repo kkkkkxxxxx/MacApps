@@ -163,3 +163,9 @@ Boom 3D 是Boom系列全新的版本，相比于以前的Boom版本，新版本�
 Sip 是一款设计师和前端应该会需要的屏幕取色软件，你只需要鼠标点一下即可取得屏幕当前位置的颜色值，并将数据自动存到剪切板，方便随时粘贴出来。支持 CSS、UIColor 等多种格式。
 
 ![](Assets/Sip.jpg)
+
+## Trim Enabler Pro
+![](Icons/TrimEnablerPro.png)
+Trim Enabler Pro是一款Mac上实用的固态硬盘维护和检测工具, 如果你安装的是第三方的SSD，比如自己换了个固态硬盘，那么就一定要使用这款软件来开启固态硬盘的TRIM功能，以提高SSD的使用寿命，当然，Appple自带的SSD默认是开启Trim的，但Trim Enabler除了提供开启TRIM功能外，还具有硬盘SMART检测、温度监控、提高数据写入速度、Benchmark基带测试、硬盘各种状态的检测等等功能，非常的强大！
+
+![](Assets/TrimEnablerPro.jpg)
