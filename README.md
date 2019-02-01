@@ -70,6 +70,12 @@ FlawlessApp 是一款专为UI设计师及开发者打造的一款UI原型矫正�
 
 ![](Assets/FlawlessApp.jpg)
 
+## Archiver
+![](Icons/Archiver.png)
+Archiver 是一款Mac上优秀的压缩解压缩工具，具有压缩包加密、分卷压缩、压缩包内图片和音乐优化、压缩包内容预览等功能，支持拖拽压缩/解压缩，尤其是能够自动优化压缩图片和音乐类型的文件，软件的界面UI也非常的漂亮，支持所有常见的压缩格式，甚至支持Linux RPM、DMG、PAX等格式!
+
+![](Assets/Archiver.jpg)
+
 ## Navicat Premium
 ![](Icons/NavicatPremium.png)
 Navicat Premium 是最优秀的数据库图形化管理客户端，支持MySQL、SQL Server、SQLite、Oracle 和 PostgreSQL 等数据库，支持数据库建模，正向和反向工程，数据同步等功能，而Premium版本是包含了Navicat所有功能的最强大版本，是首选的数据库客户端工具！
@@ -183,3 +189,9 @@ Sip 是一款设计师和前端应该会需要的屏幕取色软件，你只需�
 Trim Enabler Pro是一款Mac上实用的固态硬盘维护和检测工具, 如果你安装的是第三方的SSD，比如自己换了个固态硬盘，那么就一定要使用这款软件来开启固态硬盘的TRIM功能，以提高SSD的使用寿命，当然，Appple自带的SSD默认是开启Trim的，但Trim Enabler除了提供开启TRIM功能外，还具有硬盘SMART检测、温度监控、提高数据写入速度、Benchmark基带测试、硬盘各种状态的检测等等功能，非常的强大！
 
 ![](Assets/TrimEnablerPro.jpg)
+
+## CrossOver
+![](Icons/CrossOver.png)
+CrossOver 是一款可以让我们直接在Mac上安装和运行Windows软件和游戏的工具，CrossOver已经支持一万多款软件，包括大部分主流软件，如Microsoft Office、AutoCAD、Windows Media Player 9、Adobe Photoshop、Dreamweaver、Internet Explorer等知名软件。
+
+![](Assets/CrossOver.jpg)
