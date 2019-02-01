@@ -195,3 +195,9 @@ Trim Enabler Pro是一款Mac上实用的固态硬盘维护和检测工具, 如�
 CrossOver 是一款可以让我们直接在Mac上安装和运行Windows软件和游戏的工具，CrossOver已经支持一万多款软件，包括大部分主流软件，如Microsoft Office、AutoCAD、Windows Media Player 9、Adobe Photoshop、Dreamweaver、Internet Explorer等知名软件。
 
 ![](Assets/CrossOver.jpg)
+
+## VMware Fusion Pro
+![](Icons/VMwareFusionPro.png)
+VMware Fusion Pro 将 Mac® 上的虚拟化提升到更高的级别，它拥有强大的功能特性，专业技术人员无需重新启动即可在 Mac 上运行 Windows® 应用。利用针对类似 Windows 10 这样的最新现代操作系统的额外支持，高级用户、开发人员、QA 和 IT 管理员每天都依赖 Fusion Pro 实现高性能、高可用性和领先的功能特性，从而支持在 Mac 上运行 Windows 和 Linux。
+
+![](Assets/VMwareFusionPro.jpg)
